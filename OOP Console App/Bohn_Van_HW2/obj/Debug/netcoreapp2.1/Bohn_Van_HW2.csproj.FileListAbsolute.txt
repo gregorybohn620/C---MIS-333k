@@ -1,0 +1,11 @@
+C:\Users\gregory\Desktop\MIS333K\Bohn_Van_HW2\Bohn_Van_HW2\obj\Debug\netcoreapp2.1\Bohn_Van_HW2.csprojAssemblyReference.cache
+C:\Users\gregory\Desktop\MIS333K\Bohn_Van_HW2\Bohn_Van_HW2\obj\Debug\netcoreapp2.1\Bohn_Van_HW2.csproj.CoreCompileInputs.cache
+C:\Users\gregory\Desktop\MIS333K\Bohn_Van_HW2\Bohn_Van_HW2\obj\Debug\netcoreapp2.1\Bohn_Van_HW2.AssemblyInfoInputs.cache
+C:\Users\gregory\Desktop\MIS333K\Bohn_Van_HW2\Bohn_Van_HW2\obj\Debug\netcoreapp2.1\Bohn_Van_HW2.AssemblyInfo.cs
+C:\Users\gregory\Desktop\MIS333K\Bohn_Van_HW2\Bohn_Van_HW2\bin\Debug\netcoreapp2.1\Bohn_Van_HW2.deps.json
+C:\Users\gregory\Desktop\MIS333K\Bohn_Van_HW2\Bohn_Van_HW2\bin\Debug\netcoreapp2.1\Bohn_Van_HW2.runtimeconfig.json
+C:\Users\gregory\Desktop\MIS333K\Bohn_Van_HW2\Bohn_Van_HW2\bin\Debug\netcoreapp2.1\Bohn_Van_HW2.runtimeconfig.dev.json
+C:\Users\gregory\Desktop\MIS333K\Bohn_Van_HW2\Bohn_Van_HW2\bin\Debug\netcoreapp2.1\Bohn_Van_HW2.dll
+C:\Users\gregory\Desktop\MIS333K\Bohn_Van_HW2\Bohn_Van_HW2\bin\Debug\netcoreapp2.1\Bohn_Van_HW2.pdb
+C:\Users\gregory\Desktop\MIS333K\Bohn_Van_HW2\Bohn_Van_HW2\obj\Debug\netcoreapp2.1\Bohn_Van_HW2.dll
+C:\Users\gregory\Desktop\MIS333K\Bohn_Van_HW2\Bohn_Van_HW2\obj\Debug\netcoreapp2.1\Bohn_Van_HW2.pdb
